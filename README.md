@@ -1,1 +1,1 @@
-# apenas esboços do meu curso
+# apenas esboços do meu curso de programação
